@@ -1,0 +1,599 @@
+2026-02-17 21:24:15.908 | INFO     | __main__:<module>:31 - BOT_TOKEN: 8546600159:AAE-qSSxRLC246FMtJYFbHhh1OF10LwnY8E
+2026-02-17 21:24:15.908 | INFO     | __main__:<module>:48 - Starting bot
+2026-02-17 21:24:15.910 | INFO     | logging:callHandlers:1737 - BEGIN (implicit)
+2026-02-17 21:24:15.910 | INFO     | logging:callHandlers:1737 - PRAGMA main.table_info("users")
+2026-02-17 21:24:15.911 | INFO     | logging:callHandlers:1737 - [raw sql] ()
+2026-02-17 21:24:15.912 | INFO     | logging:callHandlers:1737 - COMMIT
+2026-02-17 21:24:58.229 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:26:02.495 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:02.599 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:26:02.606 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:02.701 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:02.840 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:03.125 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:03.269 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:03.406 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:03.576 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:03.752 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:03.988 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:04.088 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:04.342 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:04.587 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:26:04.783 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:26:04.881 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:26:04.891 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:26:04.985 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:26:05.151 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:26:05.542 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:05.775 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:06.052 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:06.259 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:06.355 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:06.621 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:06.828 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:06.836 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:26:06.927 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:07.134 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:26:07.238 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:07.340 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:26:07.442 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:07.646 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:07.751 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:26:07.946 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:08.048 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:26:08.262 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:26:08.395 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:26:08.581 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:26:08.681 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:26:08.859 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:26:09.132 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:26:09.418 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:09.600 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:26:09.793 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:26:10.110 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:10.747 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:26:11.060 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:26:11.239 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:26:11.337 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:26:11.454 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:26:11.939 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:26:23.603 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:27:25.568 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:27:25.798 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:27:25.898 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:26.276 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:27:26.391 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:26.560 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:27:26.738 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:27:26.904 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:27:27.007 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:27:27.148 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:27.314 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:27.524 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:27.681 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:27.818 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:28.034 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:28.179 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:28.472 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:28.573 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:28.780 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:28.995 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:29.098 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:29.598 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:29.814 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:29.913 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:30.122 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:30.244 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:30.444 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:30.655 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:30.852 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:30.954 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:31.230 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:31.327 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:31.452 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:31.671 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:31.871 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:31.971 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:32.174 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:32.281 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:32.455 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:27:32.550 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:27:32.649 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:27:32.827 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:27:32.962 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:27:33.059 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:27:33.225 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:27:33.644 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:33.739 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:33.932 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:34.143 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:34.288 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:34.450 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:27:34.936 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:27:35.033 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:27:35.156 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:27:35.166 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:27:35.279 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:27:35.411 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:27:35.507 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:35.608 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:35.616 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:27:35.764 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:27:41.310 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:27:41.408 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:27:41.849 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:27:41.947 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 35.6895, 139.6917
+2026-02-17 21:27:42.046 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:27:42.277 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:27:53.310 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:53.511 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:27:53.714 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:27:53.923 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 48.8566, 2.3522
+2026-02-17 21:29:39.386 | WARNING  | logging:callHandlers:1737 - Received SIGINT signal
+2026-02-17 21:29:39.387 | WARNING  | logging:callHandlers:1737 - Received SIGINT signal
+2026-02-17 21:48:41.049 | INFO     | __main__:<module>:32 - BOT_TOKEN: 8546600159:AAE-qSSxRLC246FMtJYFbHhh1OF10LwnY8E
+2026-02-17 21:48:41.049 | INFO     | __main__:<module>:50 - Starting bot
+2026-02-17 21:48:41.051 | INFO     | logging:callHandlers:1737 - BEGIN (implicit)
+2026-02-17 21:48:41.052 | INFO     | logging:callHandlers:1737 - PRAGMA main.table_info("users")
+2026-02-17 21:48:41.052 | INFO     | logging:callHandlers:1737 - [raw sql] ()
+2026-02-17 21:48:41.053 | INFO     | logging:callHandlers:1737 - COMMIT
+2026-02-17 21:48:57.661 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:48:57.889 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:48:58.055 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:48:58.350 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:48:58.582 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:48:58.760 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:48:58.879 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:48:58.973 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:48:59.186 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:48:59.288 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:48:59.457 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:48:59.678 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:48:59.819 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:00.015 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:00.208 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:00.557 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:00.677 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:00.778 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:00.878 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:01.132 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:01.371 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:01.579 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:01.889 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:01.990 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:02.215 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:02.330 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:02.568 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:02.668 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:02.879 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:03.070 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:03.275 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:03.457 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:03.658 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:03.849 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:04.023 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:04.195 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:04.373 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:07.586 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:08.237 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:08.444 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:08.617 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:08.818 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:49:09.022 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:09.224 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:09.428 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:09.631 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:09.842 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:10.044 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:10.256 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:10.460 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:10.469 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:10.666 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:10.870 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:11.078 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:11.172 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:11.272 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:11.373 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:11.537 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:11.739 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:12.002 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:12.206 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 51.5074, -0.1278
+2026-02-17 21:49:12.632 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 40.7128, -74.006
+2026-02-17 21:50:52.572 | WARNING  | logging:callHandlers:1737 - Received SIGINT signal
+2026-02-17 21:50:52.572 | WARNING  | logging:callHandlers:1737 - Received SIGINT signal
+2026-02-17 21:52:37.853 | INFO     | __main__:<module>:32 - BOT_TOKEN: 8546600159:AAE-qSSxRLC246FMtJYFbHhh1OF10LwnY8E
+2026-02-17 21:52:37.853 | INFO     | __main__:<module>:50 - Starting bot
+2026-02-17 21:52:37.856 | INFO     | logging:callHandlers:1737 - BEGIN (implicit)
+2026-02-17 21:52:37.856 | INFO     | logging:callHandlers:1737 - PRAGMA main.table_info("users")
+2026-02-17 21:52:37.856 | INFO     | logging:callHandlers:1737 - [raw sql] ()
+2026-02-17 21:52:37.858 | INFO     | logging:callHandlers:1737 - COMMIT
+2026-02-17 21:52:42.987 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:52:45.684 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:45.904 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:46.014 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:46.302 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:46.524 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:46.746 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:46.960 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:49.381 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:49.590 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:50.002 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:50.211 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:50.649 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:50.901 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:51.438 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:52.458 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:53.683 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:54.304 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:54.746 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:55.632 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:55.999 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:56.445 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:56.597 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:56.896 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:57.288 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:57.511 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:57.820 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:58.128 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:58.485 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:58.619 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:58.872 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:59.134 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:59.356 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:59.555 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:52:59.987 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:00.209 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:00.425 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:00.653 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:01.008 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:01.106 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:01.289 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:01.754 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:01.851 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:02.037 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:02.221 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:02.512 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:02.708 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:02.806 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:02.989 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:03.180 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:03.379 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:03.567 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:03.860 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:03.958 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:04.132 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:04.438 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:04.547 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:04.877 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:05.191 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:05.289 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:05.478 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:05.773 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:06.175 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:06.381 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:06.587 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:06.790 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:07.035 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:07.410 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:07.619 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:07.820 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:08.019 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:08.230 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:08.632 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:08.848 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:09.451 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:09.660 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:09.860 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:10.071 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:10.324 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:10.398 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:10.496 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:10.503 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:10.703 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:10.798 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:10.974 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:11.084 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:11.193 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:11.397 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:11.589 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:11.783 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:11.976 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:12.067 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:12.192 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:12.500 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:12.803 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:13.352 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:13.671 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:14.020 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:14.310 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:14.412 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:14.840 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:14.933 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:15.040 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:15.230 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:15.432 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:15.530 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:15.541 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:15.713 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:16.010 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:16.191 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:16.199 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:16.290 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:16.557 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:16.698 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:16.893 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:17.083 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:17.184 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:17.427 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:17.628 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:17.809 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:18.021 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:18.296 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:18.408 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:18.658 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:18.870 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:18.991 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:19.226 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:19.528 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:19.634 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:19.742 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:20.024 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:20.227 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:20.324 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:20.512 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:20.817 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:20.913 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:21.180 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:21.300 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:21.592 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:21.791 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:21.894 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:22.082 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:22.276 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:22.457 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:22.558 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:22.755 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.439 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.566 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.758 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.763 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.768 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.772 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.883 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.887 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.892 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.897 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.902 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.906 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.912 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:26.917 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:53:27.080 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:54:21.933 | WARNING  | logging:callHandlers:1737 - Received SIGINT signal
+2026-02-17 21:54:21.934 | WARNING  | logging:callHandlers:1737 - Received SIGINT signal
+2026-02-17 21:58:49.907 | INFO     | __main__:<module>:32 - BOT_TOKEN: 8546600159:AAE-qSSxRLC246FMtJYFbHhh1OF10LwnY8E
+2026-02-17 21:58:49.907 | INFO     | __main__:<module>:51 - Starting bot
+2026-02-17 21:58:49.908 | INFO     | logging:callHandlers:1737 - BEGIN (implicit)
+2026-02-17 21:58:49.909 | INFO     | logging:callHandlers:1737 - PRAGMA main.table_info("users")
+2026-02-17 21:58:49.909 | INFO     | logging:callHandlers:1737 - [raw sql] ()
+2026-02-17 21:58:49.909 | INFO     | logging:callHandlers:1737 - COMMIT
+2026-02-17 21:59:01.945 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:03.399 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:03.593 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:05.074 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:05.235 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:05.546 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:05.720 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:05.900 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:06.056 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:06.542 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:06.694 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:06.954 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:07.094 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:07.564 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:07.731 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:08.231 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:08.339 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:08.651 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:09.117 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:09.443 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:09.700 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:09.957 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:10.150 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:10.360 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:10.526 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:10.730 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:10.993 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:11.367 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:11.511 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:11.693 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:11.874 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:12.073 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:12.246 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:12.334 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:12.533 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:12.680 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:12.829 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:12.923 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:13.029 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:13.389 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:13.581 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:13.783 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:13.986 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:14.167 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:14.363 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:14.566 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:28.939 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:29.142 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:29.272 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:29.539 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:29.731 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:30.028 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:30.242 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:30.449 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:30.647 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:30.858 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:31.059 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:31.319 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:31.664 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:31.879 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:32.051 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:32.423 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:32.691 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:32.810 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:33.000 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:33.343 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:33.550 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:33.770 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:34.256 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:34.350 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:34.690 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:34.925 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:35.124 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:35.296 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:35.501 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:35.696 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:35.795 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:36.001 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:36.263 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:36.520 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:36.646 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:36.839 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:37.044 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:37.209 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:37.388 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:37.509 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:37.776 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:37.901 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:38.092 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:38.360 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:38.495 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:38.751 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:38.945 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:39.096 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:39.351 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:39.549 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:39.744 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:40.024 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:40.118 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:40.343 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:40.552 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:40.669 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:40.940 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:41.138 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:41.263 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:41.593 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:41.704 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:41.985 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:42.139 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:42.331 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:42.626 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:42.753 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:42.947 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:43.255 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:43.426 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:43.562 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:46.758 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:46.883 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:47.156 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:47.339 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:47.648 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:47.748 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 55.7558, 37.6173
+2026-02-17 21:59:50.197 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:50.367 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:50.664 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:50.766 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:51.161 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:51.379 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:51.477 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:51.786 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:51.879 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:52.091 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:52.321 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:52.484 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:52.705 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:52.926 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:53.028 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:53.292 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:53.407 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:53.670 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:53.883 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:54.433 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:54.718 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:54.827 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:55.259 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:55.403 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 21:59:55.637 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:00.165 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:00.381 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:00.498 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:00.503 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:00.507 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:00.512 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:00.516 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:00.522 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:00.526 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:00.688 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:00.697 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:00.701 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:03.538 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:04.128 | ERROR    | bot.services.weather.get_data:get_weather:72 - Ошибка API (Статус 504) : Server error '504 Gateway Time-out' for url 'https://api.open-meteo.com/v1/forecast?latitude=41.2995&longitude=69.2401&current_weather=true&timezone=auto'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504
+2026-02-17 22:00:04.165 | ERROR    | bot.services.weather.get_data:get_weather:72 - Ошибка API (Статус 504) : Server error '504 Gateway Time-out' for url 'https://api.open-meteo.com/v1/forecast?latitude=41.2995&longitude=69.2401&current_weather=true&timezone=auto'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504
+2026-02-17 22:00:04.166 | ERROR    | bot.services.weather.get_data:get_weather:72 - Ошибка API (Статус 504) : Server error '504 Gateway Time-out' for url 'https://api.open-meteo.com/v1/forecast?latitude=41.2995&longitude=69.2401&current_weather=true&timezone=auto'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504
+2026-02-17 22:00:04.167 | ERROR    | bot.services.weather.get_data:get_weather:72 - Ошибка API (Статус 504) : Server error '504 Gateway Time-out' for url 'https://api.open-meteo.com/v1/forecast?latitude=41.2995&longitude=69.2401&current_weather=true&timezone=auto'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504
+2026-02-17 22:00:04.168 | ERROR    | bot.services.weather.get_data:get_weather:72 - Ошибка API (Статус 504) : Server error '504 Gateway Time-out' for url 'https://api.open-meteo.com/v1/forecast?latitude=41.2995&longitude=69.2401&current_weather=true&timezone=auto'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504
+2026-02-17 22:00:04.173 | ERROR    | bot.services.weather.get_data:get_weather:72 - Ошибка API (Статус 504) : Server error '504 Gateway Time-out' for url 'https://api.open-meteo.com/v1/forecast?latitude=41.2995&longitude=69.2401&current_weather=true&timezone=auto'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504
+2026-02-17 22:00:04.175 | ERROR    | bot.services.weather.get_data:get_weather:72 - Ошибка API (Статус 504) : Server error '504 Gateway Time-out' for url 'https://api.open-meteo.com/v1/forecast?latitude=41.2995&longitude=69.2401&current_weather=true&timezone=auto'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504
+2026-02-17 22:00:04.178 | ERROR    | bot.services.weather.get_data:get_weather:72 - Ошибка API (Статус 504) : Server error '504 Gateway Time-out' for url 'https://api.open-meteo.com/v1/forecast?latitude=41.2995&longitude=69.2401&current_weather=true&timezone=auto'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504
+2026-02-17 22:00:04.231 | ERROR    | bot.services.weather.get_data:get_weather:72 - Ошибка API (Статус 504) : Server error '504 Gateway Time-out' for url 'https://api.open-meteo.com/v1/forecast?latitude=41.2995&longitude=69.2401&current_weather=true&timezone=auto'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504
+2026-02-17 22:00:04.234 | ERROR    | bot.services.weather.get_data:get_weather:72 - Ошибка API (Статус 504) : Server error '504 Gateway Time-out' for url 'https://api.open-meteo.com/v1/forecast?latitude=41.2995&longitude=69.2401&current_weather=true&timezone=auto'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504
+2026-02-17 22:00:04.487 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:06.920 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:08.477 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:09.134 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:09.901 | ERROR    | bot.services.weather.get_data:get_weather:72 - Ошибка API (Статус 429) : Client error '429 Too Many Requests' for url 'https://api.open-meteo.com/v1/forecast?latitude=41.2995&longitude=69.2401&current_weather=true&timezone=auto'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-02-17 22:00:11.148 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:00:24.712 | WARNING  | logging:callHandlers:1737 - Received SIGINT signal
+2026-02-17 22:00:24.712 | WARNING  | logging:callHandlers:1737 - Received SIGINT signal
+2026-02-17 22:09:39.462 | INFO     | __main__:<module>:32 - BOT_TOKEN: 8546600159:AAE-qSSxRLC246FMtJYFbHhh1OF10LwnY8E
+2026-02-17 22:09:39.462 | INFO     | __main__:<module>:51 - Starting bot
+2026-02-17 22:09:39.464 | INFO     | logging:callHandlers:1737 - BEGIN (implicit)
+2026-02-17 22:09:39.464 | INFO     | logging:callHandlers:1737 - PRAGMA main.table_info("users")
+2026-02-17 22:09:39.465 | INFO     | logging:callHandlers:1737 - [raw sql] ()
+2026-02-17 22:09:39.466 | INFO     | logging:callHandlers:1737 - COMMIT
+2026-02-17 22:09:41.558 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:09:41.635 | INFO     | bot.middlewares.throttle:__call__:71 - Throttled user 8376856420 — 0.140s since last
+2026-02-17 22:09:41.789 | INFO     | bot.middlewares.throttle:__call__:71 - Throttled user 8376856420 — 0.294s since last
+2026-02-17 22:09:41.967 | INFO     | bot.middlewares.throttle:__call__:71 - Throttled user 8376856420 — 0.472s since last
+2026-02-17 22:09:42.169 | INFO     | bot.middlewares.throttle:__call__:71 - Throttled user 8376856420 — 0.674s since last
+2026-02-17 22:09:42.376 | INFO     | bot.middlewares.throttle:__call__:71 - Throttled user 8376856420 — 0.881s since last
+2026-02-17 22:09:42.680 | INFO     | bot.services.weather.get_data:get_weather:60 - Запрос погоды для координат: 41.2995, 69.2401
+2026-02-17 22:09:42.774 | INFO     | bot.middlewares.throttle:__call__:71 - Throttled user 8376856420 — 0.103s since last
+2026-02-17 22:09:42.776 | INFO     | bot.middlewares.throttle:__call__:71 - Throttled user 8376856420 — 0.105s since last
+2026-02-17 22:09:42.969 | INFO     | bot.middlewares.throttle:__call__:71 - Throttled user 8376856420 — 0.298s since last
+2026-02-17 22:09:43.244 | INFO     | bot.middlewares.throttle:__call__:71 - Throttled user 8376856420 — 0.573s since last
+2026-02-17 22:09:43.352 | INFO     | bot.middlewares.throttle:__call__:71 - Throttled user 8376856420 — 0.682s since last
+2026-02-17 22:09:52.561 | INFO     | bot.middlewares.throttle:__call__:71 - Throttled user 8376856420 — 0.741s since last
+2026-02-17 22:09:58.093 | WARNING  | logging:callHandlers:1737 - Received SIGINT signal
+2026-02-17 22:09:58.093 | WARNING  | logging:callHandlers:1737 - Received SIGINT signal
+2026-02-17 22:40:18.853 | INFO     | __main__:<module>:32 - BOT_TOKEN: 8546600159:AAE-qSSxRLC246FMtJYFbHhh1OF10LwnY8E
+2026-02-17 22:40:18.853 | INFO     | __main__:<module>:57 - Starting bot
+2026-02-17 22:40:18.855 | INFO     | logging:callHandlers:1737 - BEGIN (implicit)
+2026-02-17 22:40:18.856 | INFO     | logging:callHandlers:1737 - PRAGMA main.table_info("users")
+2026-02-17 22:40:18.856 | INFO     | logging:callHandlers:1737 - [raw sql] ()
+2026-02-17 22:40:18.857 | INFO     | logging:callHandlers:1737 - COMMIT
+2026-02-17 22:40:29.138 | INFO     | bot.services.weather.get_data:get_weather:115 - Requesting weather for coordinates: 55.7558, 37.6173 (attempt 1)
+2026-02-17 22:40:44.654 | INFO     | bot.services.weather.get_data:get_weather:115 - Requesting weather for coordinates: 40.7128, -74.006 (attempt 1)
+2026-02-17 22:41:05.165 | INFO     | bot.services.weather.get_data:get_weather:115 - Requesting weather for coordinates: 35.6895, 139.6917 (attempt 1)
+2026-02-17 22:41:15.559 | WARNING  | logging:callHandlers:1737 - Received SIGINT signal
+2026-02-17 22:41:15.559 | WARNING  | logging:callHandlers:1737 - Received SIGINT signal

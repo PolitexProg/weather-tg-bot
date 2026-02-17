@@ -1,0 +1,21 @@
+{
+  "coords": {
+    "Moscow": {"lat": 55.7558, "lon": 37.6173},
+    "London": {"lat": 51.5074, "lon": -0.1278},
+    "Saint Petersburg": {"lat": 59.9343, "lon": 30.3351},
+    "Tashkent": {"lat": 41.2995, "lon": 69.2401},
+    "New York": {"lat": 40.7128, "lon": -74.0060},
+    "Tokyo": {"lat": 35.6895, "lon": 139.6917},
+    "Paris": {"lat": 48.8566, "lon": 2.3522},
+    "Dubai": {"lat": 25.2048, "lon": 55.2708},
+    "Sydney": {"lat": -33.8688, "lon": 151.2093},
+    "Berlin": {"lat": 52.5200, "lon": 13.4050},
+    "Rio de Janeiro": {"lat": -22.9068, "lon": -43.1729},
+    "Astana": {"lat": 51.1605, "lon": 71.4704},
+    "Almaty": {"lat": 43.2220, "lon": 76.8512},
+    "Novosibirsk": {"lat": 55.0084, "lon": 82.9357},
+    "Yekaterinburg": {"lat": 56.8389, "lon": 60.6057},
+    "Kazan": {"lat": 55.8304, "lon": 49.0661},
+    "Nizhny Novgorod": {"lat": 56.2965, "lon": 43.936}
+  }
+}
