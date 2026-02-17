@@ -1,10 +1,97 @@
-# Python-generated files
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[oc]
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
 build/
 dist/
 wheels/
-*.egg-info
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
 
 # Virtual environments
-.venv
+.venv/
+venv/
+ENV/
+env/
+
+# Pyenv
+.python-version
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Translations
+*.mo
+
+# Django stuff (if used)
+db.sqlite3
+local_settings.py
+
+# Logs
+logs/
+*.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Secrets / env
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# mypy
+.mypy_cache/
+
+# Pylance
+.pylance/
+
+# profiler
+.prof
+
+# Generated files
+coverage_html_report/
+
+# lock files
+poetry.lock
+
+# Misc
+*.bak
+*.tmp
+
+# Ignore logs/ database and virtual envs explicitly
+/logs/
+/db.sqlite3
+/.venv/
+
