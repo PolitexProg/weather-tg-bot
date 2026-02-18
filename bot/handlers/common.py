@@ -29,13 +29,12 @@ async def cmd_start(message: Message):
     )
 
 
-@router.message(F.text == "Get weather")
+@router.message(F.text.in_(set(("Get weather", "🌤️ Get weather"))))
 @logger.catch
 async def cmd_get_weather(message: Message, state: FSMContext):
     """Start the weather selection flow and set FSM to choosing_city."""
     await message.answer(
-        "Choose a city from the list or type the city name in English:",
-        reply_markup=city_keyboard,
+        "Choose a city from the list or type the city name in English:", reply_markup=city_keyboard
     )
     await state.set_state(ChoiceState.choosing_city)
 
@@ -156,6 +155,14 @@ async def quick_city_click(message: Message):
     """Handle presses of popular city quick-buttons from the main keyboard."""
     text = (message.text or "").strip()
     await _fetch_and_send_weather(message, text)
+
+
+@router.message(F.text == "Cancel")
+@logger.catch
+async def cancel_any(message: Message, state: FSMContext):
+    """Handle 'Cancel' from any state: clear FSM and show main menu."""
+    await state.clear()
+    await message.answer("Cancelled.", reply_markup=get_main_menu_keyboard())
 
 
 @router.message(Command("help"))

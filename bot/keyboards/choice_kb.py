@@ -19,7 +19,7 @@ def make_city_keyboard() -> ReplyKeyboardMarkup:
     """
     kb = ReplyKeyboardMarkup(
         keyboard=[[KeyboardButton(text=c)] for c in POPULAR_CITIES]
-        + [[KeyboardButton(text="Other city")], [KeyboardButton(text="Cancel")]],
+        + [[KeyboardButton(text="Other city")], [KeyboardButton(text="Cancel"),]],
         resize_keyboard=True,
     )
     return kb

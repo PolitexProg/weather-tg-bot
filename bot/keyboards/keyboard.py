@@ -7,21 +7,11 @@ def get_main_menu_keyboard() -> ReplyKeyboardMarkup:
     The keyboard contains a primary action button and a set of popular city
     quick-buttons for convenience.
     """
-    # Main menu with Get weather and some popular city quick-buttons
+    # Main menu with icon-enhanced buttons (no city quick-buttons here)
     kb = ReplyKeyboardMarkup(
         keyboard=[
-            [KeyboardButton(text="Get weather")],
-            [
-                KeyboardButton(text="Tashkent"),
-                KeyboardButton(text="Moscow"),
-                KeyboardButton(text="London"),
-            ],
-            [
-                KeyboardButton(text="New York"),
-                KeyboardButton(text="Tokyo"),
-                KeyboardButton(text="Paris"),
-            ],
-            [KeyboardButton(text="Other city")],
+            [KeyboardButton(text="🌤️ Get weather")],
+            [KeyboardButton(text="  Profile")],
         ],
         resize_keyboard=True,
     )

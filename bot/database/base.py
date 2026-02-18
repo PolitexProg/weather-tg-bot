@@ -15,6 +15,7 @@ class Base(DeclarativeBase):
     pass
 
 # Пример модели пользователя
+
 class User(Base):
     __tablename__ = "users"
 
@@ -22,6 +23,7 @@ class User(Base):
     tg_id: Mapped[int] = mapped_column(unique=True)
     username: Mapped[str | None] = mapped_column(nullable=True)
     city: Mapped[str | None] = mapped_column(nullable=True)
+    age: Mapped[int | None] = mapped_column(nullable=True)
     hobbies: Mapped[str | None] = mapped_column(nullable=True)
 
 

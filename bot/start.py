@@ -10,6 +10,7 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 from aiogram import Bot, Dispatcher
 from aiogram.fsm.storage.memory import MemoryStorage
 from dotenv import load_dotenv
+from handlers.profile import router as profile_router  # noqa: E402
 
 # Импортируем наши наработки
 from bot.database.base import async_session, proceed_schemas
@@ -50,6 +51,7 @@ async def main():
 
     dp.include_router(common_router)
     dp.include_router(source_router)
+    dp.include_router(profile_router)
     await dp.start_polling(bot)
 
 
