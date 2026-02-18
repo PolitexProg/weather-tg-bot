@@ -1,6 +1,59 @@
+
 # Telegram Weather Bot (tg-prognoz)
 
-A small demo Telegram bot that fetches current weather using Open-Meteo and provides a simple conversational UI implemented with aiogram v3.
+A demo Telegram bot for weather and profile management, built with aiogram v3.
+
+## Features
+
+- Main menu: only "Get weather" and "Profile" buttons (no city entry from main menu)
+- City selection appears only after clicking "Get weather"
+- Profile creation and editing (name, city, hobbies, age) with inline edit button
+- Weather fetching using Open-Meteo API
+- Async SQLAlchemy (SQLite) for user profiles
+- Inline keyboard for profile editing
+- Structured logging with loguru
+
+## Requirements
+
+- Python 3.11+ (async/typing features)
+- Virtual environment, dependencies from `pyproject.toml`
+
+Install dependencies:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+```
+
+## Configuration
+
+Set your Telegram bot token:
+
+```bash
+export BOT_TOKEN="<your-telegram-bot-token>"
+```
+
+## Running
+
+```bash
+python bot/start.py
+```
+
+## Profile Management
+
+- Use the "Profile" button to view or create your profile
+- Edit your profile with the inline "Edit Profile" button
+- Profile fields: name, city, hobbies, age
+
+## License
+
+See LICENSE for details (default: MIT).
+
+## Data files
+
+- `bot/utils/coords.json` — city coordinates
+- `db.sqlite3` — SQLite DB
 
 ## Features
 
