@@ -80,21 +80,7 @@ python -m pip install -r requirements.txt
 
 (If this project uses `pyproject.toml`, use `pip install -e .` or your preferred tool.)
 
-## Configuration
 
-Set your bot token in the environment before running:
-
-```bash
-export BOT_TOKEN="<your-telegram-bot-token>"
-```
-
-## Running the bot
-
-Start the bot:
-
-```bash
-python bot/start.py
-```
 
 Logs are written to `logs/app.log` and errors to `logs/errors.log` (configured in `core/logger.py`).
 
